@@ -29,3 +29,11 @@ You are now connected to database "my_bookshop" as user "lukeford".
  Nineteen Eighty-Four: A Novel
 (3 rows)
 
+
+ Here are all the books with "The" in the title:
+
+         title         
+-----------------------
+ The War of the Worlds
+(1 row)
+
