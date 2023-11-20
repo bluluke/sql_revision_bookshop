@@ -1,0 +1,14 @@
+You are now connected to database "my_bookshop" as user "lukeford".
+
+ Here are all the books that we have in stock:
+
+             title             
+-------------------------------
+ The Handmaid's Tale
+ Pride and Prejudice
+ The Tale of Peter Rabbit
+ Emma
+ Nineteen Eighty-Four: A Novel
+ The War of the Worlds
+(6 rows)
+
