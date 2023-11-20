@@ -1,0 +1,2 @@
+You are now connected to database "my_bookshop_revisited" as user "lukeford".
+INSERT 0 10
