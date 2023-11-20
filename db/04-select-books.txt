@@ -19,3 +19,13 @@ You are now connected to database "my_bookshop" as user "lukeford".
 -------
 (0 rows)
 
+
+ Here are all the books released in the 1900s:
+
+             title             
+-------------------------------
+ The Handmaid's Tale
+ The Tale of Peter Rabbit
+ Nineteen Eighty-Four: A Novel
+(3 rows)
+
