@@ -52,3 +52,11 @@ You are now connected to database "my_bookshop" as user "lukeford".
  The War of the Worlds
 (6 rows)
 
+
+ Here is the most expensive book:
+
+        title        
+---------------------
+ The Handmaid's Tale
+(1 row)
+

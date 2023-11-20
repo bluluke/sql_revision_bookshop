@@ -18,3 +18,9 @@ WHERE title LIKE '%The%';
 \echo '\n Here are the books sorted in alphabetical order:\n'
 SELECT title FROM bookshop_inventory
 ORDER BY title ASC; 
+
+\echo '\n Here is the most expensive book:\n'
+
+SELECT title FROM bookshop_inventory
+ORDER BY price_in_pence DESC
+LIMIT 1;
