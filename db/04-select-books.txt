@@ -12,3 +12,10 @@ You are now connected to database "my_bookshop" as user "lukeford".
  The War of the Worlds
 (6 rows)
 
+
+ Here are all the non-fiction books:
+
+ title 
+-------
+(0 rows)
+
