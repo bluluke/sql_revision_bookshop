@@ -37,3 +37,16 @@ You are now connected to database "my_bookshop" as user "lukeford".
  The War of the Worlds
 (1 row)
 
+
+ Here are the books sorted in alphabetical order:
+
+             title             
+-------------------------------
+ Emma
+ Nineteen Eighty-Four: A Novel
+ Pride and Prejudice
+ The Handmaid's Tale
+ The Tale of Peter Rabbit
+ The War of the Worlds
+(6 rows)
+
