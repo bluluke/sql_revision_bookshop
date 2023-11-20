@@ -13,7 +13,7 @@ WHERE release_date BETWEEN '1900=01-01' AND '1999-12-31';
 
 \echo '\n Here are all the books with "The" in the title:\n'
 SELECT title FROM bookshop_inventory
-WHERE title LIKE '%the%';
+WHERE title LIKE '%The%';
 
 \echo '\n Here are the books sorted in alphabetical order:\n'
 SELECT title FROM bookshop_inventory
