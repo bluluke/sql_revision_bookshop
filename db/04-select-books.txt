@@ -1,62 +1,77 @@
-You are now connected to database "my_bookshop" as user "lukeford".
+You are now connected to database "my_bookshop_revisited" as user "lukeford".
 
  Here are all the books that we have in stock:
 
-             title             
--------------------------------
- The Handmaid's Tale
- Pride and Prejudice
+                title                
+-------------------------------------
+ The Hitchhikers Guide to the Galaxy
+ The Little Prince
  The Tale of Peter Rabbit
  Emma
  Nineteen Eighty-Four: A Novel
+ The Handmaid's Tale
  The War of the Worlds
-(6 rows)
+ Captain Corelli's Mandolin
+ A Brief History of Time
+ Pride and Prejudice
+(10 rows)
 
 
  Here are all the non-fiction books:
 
- title 
--------
-(0 rows)
+          title          
+-------------------------
+ A Brief History of Time
+(1 row)
 
 
  Here are all the books released in the 1900s:
 
-             title             
--------------------------------
- The Handmaid's Tale
+                title                
+-------------------------------------
+ The Hitchhikers Guide to the Galaxy
+ The Little Prince
  The Tale of Peter Rabbit
  Nineteen Eighty-Four: A Novel
-(3 rows)
+ The Handmaid's Tale
+ Captain Corelli's Mandolin
+ A Brief History of Time
+(7 rows)
 
 
  Here are all the books with "The" in the title:
 
-          title           
---------------------------
- The Handmaid's Tale
+                title                
+-------------------------------------
+ The Hitchhikers Guide to the Galaxy
+ The Little Prince
  The Tale of Peter Rabbit
+ The Handmaid's Tale
  The War of the Worlds
-(3 rows)
+(5 rows)
 
 
  Here are the books sorted in alphabetical order:
 
-             title             
--------------------------------
+                title                
+-------------------------------------
+ A Brief History of Time
+ Captain Corelli's Mandolin
  Emma
  Nineteen Eighty-Four: A Novel
  Pride and Prejudice
  The Handmaid's Tale
+ The Hitchhikers Guide to the Galaxy
+ The Little Prince
  The Tale of Peter Rabbit
  The War of the Worlds
-(6 rows)
+(10 rows)
 
 
  Here is the most expensive book:
 
-        title        
----------------------
- The Handmaid's Tale
+           title            
+----------------------------
+ Captain Corelli's Mandolin
 (1 row)
 

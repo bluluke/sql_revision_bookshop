@@ -1,4 +1,4 @@
-\c my_bookshop; 
+\c my_bookshop_revisited; 
 
 \echo '\n Here are all the books that we have in stock:\n'
 SELECT title FROM bookshop_inventory;
