@@ -1,0 +1,12 @@
+You are now connected to database "my_bookshop_revisited" as user "lukeford".
+            reduced_price            
+-------------------------------------
+ The Hitchhikers Guide to the Galaxy
+ The Little Prince
+ The Tale of Peter Rabbit
+ Emma
+ Nineteen Eighty-Four: A Novel
+ The War of the Worlds
+(6 rows)
+
+UPDATE 6
