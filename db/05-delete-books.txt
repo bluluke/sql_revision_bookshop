@@ -1,0 +1,11 @@
+You are now connected to database "my_bookshop_revisited" as user "lukeford".
+
+ These books have been removed from the database as they are out of stock:
+
+       deleted_stock        
+----------------------------
+ Captain Corelli's Mandolin
+ A Brief History of Time
+(2 rows)
+
+DELETE 2
