@@ -1,0 +1,16 @@
+You are now connected to database "my_bookshop_revisited" as user "lukeford".
+
+ Here is a list of book titles with the corresponding author:
+
+                title                |       author_name        
+-------------------------------------+--------------------------
+ The Handmaid's Tale                 | Margaret Atwood
+ Pride and Prejudice                 | Jane Austen
+ The Hitchhikers Guide to the Galaxy | Douglas Adams
+ The Little Prince                   | Antoine de Saint-Exupéry
+ The Tale of Peter Rabbit            | Beatrix Potter
+ Emma                                | Jane Austen
+ Nineteen Eighty-Four: A Novel       | George Orwell
+ The War of the Worlds               | H. G. Wells
+(8 rows)
+
