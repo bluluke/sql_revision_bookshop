@@ -8,3 +8,12 @@ You are now connected to database "my_bookshop_revisited" as user "lukeford".
  classics
 (2 rows)
 
+
+ Here are all the dystopian books:
+
+             title             
+-------------------------------
+ The Handmaid's Tale
+ Nineteen Eighty-Four: A Novel
+(2 rows)
+
