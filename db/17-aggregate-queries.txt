@@ -1,0 +1,21 @@
+You are now connected to database "my_bookshop" as user "lukeford".
+
+ Here is the total number of books we have by each author:
+
+   author_name   | total_quantity 
+-----------------+----------------
+ H. G. Wells     |             17
+ George Orwell   |            420
+ Beatrix Potter  |           1000
+ Margaret Atwood |             10
+ Jane Austen     |            394
+(5 rows)
+
+
+ Here is the average price for dystopian books:
+
+ average_price_for_dystopian_novels 
+------------------------------------
+               805.0000000000000000
+(1 row)
+
